@@ -21,7 +21,7 @@ def only_evens(arr):
 y = only_evens([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
 print(y)
 
-#Write a function which takes in a string and replaces all occurrences of 'e' with '*' and returns the resulting string
+# Write a function which takes in a string and replaces all occurrences of 'e' with '*' and returns the resulting string
 def replace_char(string):
     new_string = ""
     for s in string:
