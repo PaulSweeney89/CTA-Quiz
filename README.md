@@ -43,3 +43,11 @@ unsorted.
 “Fizz” instead of the number and for the multiples of ’5’ print “Buzz”.
 
 - - -
+
+## Caesar Cipher Algorithm ## 
+
+[Caesar Cipher Algorithm](https://en.wikipedia.org/wiki/Caesar_cipher)
+
+Refer to cipher.py, decipher.py & Caesar Cipher Checker.ods spreadsheet.
+
+- - - 
