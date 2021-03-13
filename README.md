@@ -44,10 +44,42 @@ unsorted.
 
 - - -
 
-## Caesar Cipher Algorithm ## 
+## Week 6 - Caesar Cipher Algorithm 
 
 [Caesar Cipher Algorithm](https://en.wikipedia.org/wiki/Caesar_cipher)
 
 Refer to cipher.py, decipher.py & Caesar Cipher Checker.ods spreadsheet.
 
 - - - 
+## Week 6 - Iterative & Recursion Algorithms
+
+1. Computing a factorial
+
+2. Computing the greatest common divisor - Euclid Algorithm
+
+3. Computing the nth Fibonacci Number
+- - - 
+## Week 8 - Homework (Recursion Algorithms)
+
+1. Write an algorithm that returns the reverse of a given string.
+
+2. Write an algorithm that reverses an array in-place (i.e changes what is stored at each
+index), assume the input array contains numbers.
+
+3. Write an algorithm that checks whether an element occurs in an array, assume unsorted.
+
+4. Write an algorithm that computes the sum of an array of numbers.
+
+5. Write an algorithm to produce calculate the Nth number in the Fibonacci sequence.
+Assume the sequence begins 0,1,1,2....
+
+6. Write a recursive function that checks whether a string is a palindrome (a palindrome
+is a string that’s the same when reads forwards and backwards.)
+
+7. Given a number and a power, compute the result of the number raised to that power.
+For example 23 = 8.
+
+8. Given a string and a substring, compute how many times that substring appears in
+the string. For example “he” appears twice in the string “her and herself”.
+
+- - -
